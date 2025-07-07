@@ -10,7 +10,7 @@ After a while, i think the names like "20230712_1245.jpg
 - quartarfolder.sh : make a directory with YYYY-Qn, YYYY+1-Qn+1 and so...
 - sort-quartal.sh : take a subject and object as parameters, make directories like quartalfolder.sh, but move the fotos and videos from object with names as YYYY-MM-DD-HH-MM-nnnn.ext
 - fotosorter.sh : simple convert a chaos folder with diferents names, formats, stils in so one:
-``
+```
 2023
 └─ 07
    ├─ 20230712_1245.jpg
