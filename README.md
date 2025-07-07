@@ -1,5 +1,5 @@
 # FotoSorter
-## Colecction of simple shell scripts as tools to organize fotos on system directory
+### Colecction of simple shell scripts as tools to organize fotos on system directory
 
 After system organization, use PhotoPrism or Lychee for more Power.
 
@@ -12,6 +12,7 @@ After a while, i think the names like "20230712_1245.jpg
 - quartarfolder.sh : make a directory with YYYY-Qn, YYYY+1-Qn+1 and so...
 - sort-quartal.sh : take a subject and object as parameters, make directories like quartalfolder.sh, but move the fotos and videos from object with names as YYYY-MM-DD-HH-MM-nnnn.ext
 - fotosorter.sh : simple convert a chaos folder with diferents names, formats, stils in so one:
+
 ```
 2023
 └─ 07
@@ -24,5 +25,9 @@ After a while, i think the names like "20230712_1245.jpg
 run the script so you will with the origin and target(is the origin too) as parameter so:
 
 sh fotosorter ~/myname/mycaoticfotofolder
+
+sh filecounter  ~/myname/mycaoticfotofolder
+
+sh sort-quartal  ~/myname/mycaoticfotofolder  ~/myname/mywonderfullorganization
 
 that it's all, kiss!
