@@ -1,5 +1,7 @@
 # FotoSorter
-## Colecction of simple shell script as tools to organize fotos on system directory
+## Colecction of simple shell scripts as tools to organize fotos on system directory
+
+After system organization, use PhotoPrism or Lychee for more Power.
 
 First i concept fotosorter.sh as my system, but the problems to show content on folder and subfolders, and 12 folders per year, i decide to organize my order per quarter. 
 
