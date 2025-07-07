@@ -16,8 +16,6 @@ After a while, i think the names like "20230712_1245.jpg
    ├─ 20230712_1245.jpg
    ├─ 20230712_1246.jpg
    └─ 20230712_1250.mov
-└─ 07
-   ├─ 20230812_1245.jpg
 
 ## USE:
 
